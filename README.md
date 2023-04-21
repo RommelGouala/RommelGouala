@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: (linkedin)[https://www.linkedin.com/in/rommel-gouala/]
- <iframe src='https://zeaker.netlify.app/'  width="239em" height="200em" style='overflow: hidden'/>
+
 
 <!--
 **RommelGouala/RommelGouala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
