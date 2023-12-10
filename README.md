@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C#
 - 📫 How to reach me: (linkedin)[https://www.linkedin.com/in/rommel-gouala/]
 
 
