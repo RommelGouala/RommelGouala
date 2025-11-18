@@ -20,3 +20,8 @@
 | **Portfolio** | [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yourportfolio.com) |
 <!--
 **RommelGouala/RommelGouala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
+
+I'm Rommel Gouala, a passionate Software Engineer and full-stack developer based in [Your City, Your Country]. I thrive on building robust, scalable applications, and I'm currently focused on [Your Current Technology/Interest, e.g., cloud-native solutions, modern JavaScript frameworks]. Welcome to my digital workspace!
+
+---
