@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📫 How to reach me: (linkedin)[https://www.linkedin.com/in/rommel-gouala/]
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/rommel-gouala/)
 
 ### 🛠️ My Toolbox
 
